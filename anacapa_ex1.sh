@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-source /usr/local/anacapa/singularity-files/environment
-
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 DB="$DIR/anacapa/Anacapa_db"
